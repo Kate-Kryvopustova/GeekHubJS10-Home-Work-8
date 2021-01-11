@@ -1,0 +1,5 @@
+.list-group {
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+} 
