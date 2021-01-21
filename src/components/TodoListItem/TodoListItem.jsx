@@ -24,7 +24,6 @@ function TodoListItem({item, handleDelete, toggleTodoItem}) {
         </span>
         <button type='button' className='close' onClick={onDelete}>&times;</button>
       </div>
-      
     </li>
   )
 }
