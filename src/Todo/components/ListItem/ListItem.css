@@ -1,0 +1,16 @@
+li:hover {
+  background-color: #F5F5F5;
+}
+
+.done {
+  color: red;
+  text-decoration: line-through;
+}
+
+.undone {
+  color: rgb(0, 172, 219);
+}
+
+.list-group-item {
+  cursor: pointer;
+}
